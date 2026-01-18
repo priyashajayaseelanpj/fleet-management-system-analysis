@@ -1,7 +1,7 @@
 # Fleet Management System – Systems Analysis Project
 
 ## Overview
-This project is based on a university systems analysis and modelling case study focused on analysing and proposing a fleet management system for a logistics company.
+This project is based on a systems analysis and modelling case study focused on analysing and proposing a fleet management system for a logistics company.
 
 ## Objective
 To identify operational problems in an existing fleet management process and design a high-level system that improves efficiency, real-time visibility, and decision-making.
