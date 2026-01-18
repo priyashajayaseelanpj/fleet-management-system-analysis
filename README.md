@@ -65,3 +65,28 @@ and modelling techniques.
 📄 **View the full design:**  
 [fleet-management-system-design.pdf](fleet-management-system-design.pdf)
 
+
+## Detailed System Modelling & Behaviour Design
+
+This document extends the high-level system design by describing
+the internal structure and dynamic behaviour of the fleet management
+system using UML-based modelling techniques.
+
+The focus is on how the system behaves across key operational
+scenarios, how components interact, and how complex workflows
+are managed in practice.
+
+### What This Design Covers
+- Key system assumptions used to support modelling decisions
+- Class diagram describing core system entities and relationships
+- Activity diagram modelling the end-to-end delivery booking process
+- State machine diagram capturing the lifecycle of ongoing support and service
+- Sequence diagram detailing real-time tracking and monitoring interactions
+
+The diagrams collectively demonstrate how the system coordinates
+between customers, dispatchers, drivers, vehicles, and supporting
+services to enable efficient logistics operations and real-time visibility.
+
+📄 **View the detailed modelling documentation:**  
+[fleet-management-system-uml-and-behaviour-design.pdf](fleet-management-system-uml-and-behaviour-design.pdf)
+
