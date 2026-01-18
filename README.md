@@ -31,3 +31,16 @@ This project is based on a fictionalised case study used for academic purposes. 
 
 📄 **System Analysis Summary**  
 [View PDF](system-analysis-summary.pdf)
+
+
+## Key Outcomes
+- Analysed an existing fleet management process and identified operational inefficiencies
+- Defined system boundaries, stakeholders, and high-level requirements
+- Proposed a high-level system design to improve visibility and decision-making
+
+## Tools & Techniques
+- Systems analysis & modelling
+- Stakeholder analysis
+- Business process analysis
+- Requirements definition
+- Technical documentation
