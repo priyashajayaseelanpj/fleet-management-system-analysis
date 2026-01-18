@@ -30,4 +30,4 @@ This project is based on a fictionalised case study used for academic purposes. 
 - Technical documentation
 
 📄 **System Analysis Summary**  
-[View PDF](Fleet%20Management%20System.pdf)
+[View PDF](system-analysis-summary.pdf)
