@@ -44,3 +44,24 @@ This project is based on a fictionalised case study used for academic purposes. 
 - Business process analysis
 - Requirements definition
 - Technical documentation
+
+## Fleet Management System Design
+
+This document presents a high-level system design for a proposed
+fleet management system for a logistics company.
+
+The design focuses on improving operational efficiency, real-time
+visibility, and decision-making through structured systems analysis
+and modelling techniques.
+
+### Contents of the Design
+- System assumptions and scope
+- Context diagram and system boundaries
+- Data flow diagram (DFD)
+- Data dictionary
+- Process specification
+- Use case diagram and use case description
+
+📄 **View the full design:**  
+[fleet-management-system-design.pdf](fleet-management-system-design.pdf)
+
